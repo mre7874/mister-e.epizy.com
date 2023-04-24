@@ -1,0 +1,1076 @@
+Uri: https://dev-dremusicplus.pantheonsite.io/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/about-us/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\about-us\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/allan-toniks-my-miss/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\allan-toniks-my-miss\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/author/rycky/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\author\rycky\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/author/rycky/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\author\rycky\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/afrobeats/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\afrobeats\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/afrobeats/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\afrobeats\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/amaphianos/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\amaphianos\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/amaphianos/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\amaphianos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/dancehalls/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\dancehalls\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/dancehalls/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\dancehalls\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/entertainments-news/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\entertainments-news\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/entertainments-news/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\entertainments-news\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/gegetons/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\gegetons\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/gegetons/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\gegetons\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/gosple/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\gosple\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/gosple/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\gosple\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/hip-pop/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\hip-pop\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/hip-pop/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\hip-pop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/uncategorized/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/uncategorized/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/videos/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\videos\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/category/videos/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\category\videos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/comments/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/contact-us-2/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\contact-us-2\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/contact-us-3/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\contact-us-3\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/contact-us/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/disclaimer/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\disclaimer\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/hello-world/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\hello-world\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/hello-world/?replytocom=1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/hello-world/feed/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/services/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\services\index.htm
+Content Type: text/html
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.4.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\add-search-to-menu\public\css\ivory-search.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.4.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\add-search-to-menu\public\js\ivory-search.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/audioigniter/player/build/app.js?ver=1.7.2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\audioigniter\player\build\app.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/audioigniter/player/build/style.css?ver=1.7.2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\audioigniter\player\build\style.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.14.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.4
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\ss-simple.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Widget\Arrow\ArrowImage\Assets\dist\w-arrow-image.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=4180a0be
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Widget\Bullet\Assets\dist\w-bullet.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/templately/assets/css/editor.css?ver=1.3.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\templately\assets\css\editor.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/templately/assets/images/logo-icon.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\templately\assets\images\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helveticaneue-light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot?
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helveticaneue-light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helveticaneue-light.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helveticaneue-light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.woff
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helveticaneue-light.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_0-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot?
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_0-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_0-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_0-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.woff
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_0-webfont.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_bold_0-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot?
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_bold_0-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.svg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_bold_0-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_bold_0-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.woff
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\fonts\helvetica_bold_0-webfont.woff
+Content Type: font/woff
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/images/count_left_arow.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\images\count_left_arow.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/images/count_top_arow.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\images\count_top_arow.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=2.7.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\css\sfsi-style.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/ajax-loader.gif
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/bot_tip_icn.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\bot_tip_icn.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/check_bg.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\check_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/count_bg.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\count_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/count_bg.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\count_bg.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/radio_bg.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\radio_bg.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/select_bg.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\select_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/select_bg1.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\select_bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/images/tab_3_list_bg.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\images\tab_3_list_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=2.7.3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\js\shuffle\jquery.shuffle.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\js\shuffle\modernizr.custom.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\ultimate-social-media-icons\js\shuffle\random-shuffle-min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.5.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\wordpress-popular-posts\assets\css\wpp.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.5.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\wordpress-popular-posts\assets\js\wpp.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=5.27.8
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\plugins\yet-another-related-posts-plugin\style\related.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/comments.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\comments.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/content.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\content.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\footer.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/global.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\global.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/header.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\header.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/related-posts.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\related-posts.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/css/slider.min.css?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\css\slider.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\js\navigation.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/js/slide-init.min.js?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\js\slide-init.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/themes/kadence/assets/js/tiny-slider.min.js?ver=1.1.14
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\themes\kadence\assets\js\tiny-slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle-1-120x120.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle-1-120x120.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle-1-150x150.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle-1-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle-1-300x300.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle-1-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle-1-560x560.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle-1-560x560.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle-1.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/adekunle.jpeg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\adekunle.jpeg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/ALLAN-TONIKS-My-Miss-Official-Video.mp3
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\ALLAN-TONIKS-My-Miss-Official-Video.mp3
+Content Type: audio/mpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/cropped-cropped-DRE-MUSIC-300x200.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\cropped-cropped-DRE-MUSIC-300x200.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/cropped-cropped-DRE-MUSIC.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\cropped-cropped-DRE-MUSIC.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/cropped-DRE-MUSIC-180x180.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\cropped-DRE-MUSIC-180x180.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/cropped-DRE-MUSIC-192x192.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\cropped-DRE-MUSIC-192x192.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/cropped-DRE-MUSIC-32x32.png
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\cropped-DRE-MUSIC-32x32.png
+Content Type: image/png
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/index.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\index.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/storm-ocean-waves-7018311-1024x682.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\storm-ocean-waves-7018311-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/storm-ocean-waves-7018311-300x200.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\storm-ocean-waves-7018311-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/storm-ocean-waves-7018311-768x512.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\storm-ocean-waves-7018311-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/2022/03/storm-ocean-waves-7018311.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\2022\03\storm-ocean-waves-7018311.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/global.css?ver=1646316584
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/post-26.css?ver=1646431027
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\post-26.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/post-33.css?ver=1646601237
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/post-35.css?ver=1646601800
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\post-35.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/post-6.css?ver=1646297230
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/elementor/css/post-7.css?ver=1646595303
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615196
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615197
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615204
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-2.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615217
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-3.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615219
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-4.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615221
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-5.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615338
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-6.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615339
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-7.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615341
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-8.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1646615474
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-9.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615196
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615197
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615204
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-2.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615217
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-3.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615219
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-4.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615221
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-5.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615338
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-6.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615339
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-7.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615341
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-8.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1646615474
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\essential-addons-elementor\734e5f942.min-9.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/062d1ac91662c6f87c54d4da42556f17/index.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\062d1ac91662c6f87c54d4da42556f17\index.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/87331f1961515d3e96f049578fe10dc8/adekunle.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\87331f1961515d3e96f049578fe10dc8\adekunle.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/9804580142e3b89ac84642e815f41493/index-mowzey-radio.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\9804580142e3b89ac84642e815f41493\index-mowzey-radio.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/b3b0e22a04f622c46a45a57eb0d254ee/adekunle.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\b3b0e22a04f622c46a45a57eb0d254ee\adekunle.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/c4acc8eda310b4847c1063f305852932/index-mowzey-radio.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\c4acc8eda310b4847c1063f305852932\index-mowzey-radio.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-content/uploads/slider/cache/d6baeaa17400ab95e2312ed93e983bdb/index.jpg
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-content\uploads\slider\cache\d6baeaa17400ab95e2312ed93e983bdb\index.jpg
+Content Type: image/jpeg
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/comment-reply.min.js?ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-includes/wlwmanifest.xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fabout-us%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fabout-us%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fallan-toniks-my-miss%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fallan-toniks-my-miss%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fcontact-us-2%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fcontact-us-2%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fcontact-us-3%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fcontact-us-3%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fdisclaimer%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fdisclaimer%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fhello-world%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fhello-world%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fservices%2F
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdev-dremusicplus.pantheonsite.io%2Fservices%2F&format=xml
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/10
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/11
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\11
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/12
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\12
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/5
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/6
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/7
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/8
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/categories/9
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/26
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\26
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/28
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/33
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/35
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\35
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/55
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\55
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/pages/7
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/posts/1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/posts/60
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\posts\60
+Content Type: application/json
+
+Uri: https://dev-dremusicplus.pantheonsite.io/wp-json/wp/v2/users/1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?display=swap&family=Montserrat:300%2C400|Playfair+Display:300%2C400
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.1
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\playfairdisplay\v28\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=120&d=mm&r=g
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=60&d=mm&r=g
+File Name: E:\S\New folder\New folder\New folder\New folder (2)\dev-dremusicplus.pantheonsite.io\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
